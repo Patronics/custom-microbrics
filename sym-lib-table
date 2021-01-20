@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name microBric_Parts)(type Legacy)(uri ${KIPRJMOD}/microBric_Parts.lib)(options "")(descr ""))
+  (lib (name microbric)(type Legacy)(uri ${KIPRJMOD}/microbric.lib)(options "")(descr ""))
+)
