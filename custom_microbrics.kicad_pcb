@@ -35,6 +35,7 @@
 
   (setup
     (last_trace_width 0.25)
+    (user_trace_width 1.2)
     (trace_clearance 0.2)
     (zone_clearance 0.508)
     (zone_45_only no)
@@ -204,14 +205,14 @@
   (gr_line (start 139.75 95.5) (end 139.75 115.75) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 144.25 95.5) (end 139.75 95.5) (layer Edge.Cuts) (width 0.05))
 
-  (segment (start 152.4 100.173979) (end 154.904999 97.66898) (width 0.25) (layer B.Cu) (net 1))
-  (segment (start 152.4 107.18) (end 152.4 100.173979) (width 0.25) (layer B.Cu) (net 1))
-  (segment (start 154.904999 97.66898) (end 154.904999 95.16898) (width 0.25) (layer B.Cu) (net 1))
-  (segment (start 149.86 97.713979) (end 149.904999 97.66898) (width 0.25) (layer B.Cu) (net 2))
-  (segment (start 149.86 107.18) (end 149.86 97.713979) (width 0.25) (layer B.Cu) (net 2))
-  (segment (start 149.904999 97.66898) (end 149.904999 95.16898) (width 0.25) (layer B.Cu) (net 2))
-  (segment (start 147.32 100.083981) (end 144.904999 97.66898) (width 0.25) (layer B.Cu) (net 3))
-  (segment (start 147.32 107.18) (end 147.32 100.083981) (width 0.25) (layer B.Cu) (net 3))
-  (segment (start 144.904999 97.66898) (end 144.904999 95.16898) (width 0.25) (layer B.Cu) (net 3))
+  (segment (start 152.4 100.173979) (end 154.904999 97.66898) (width 1.2) (layer B.Cu) (net 1))
+  (segment (start 152.4 107.18) (end 152.4 100.173979) (width 1.2) (layer B.Cu) (net 1))
+  (segment (start 154.904999 97.66898) (end 154.904999 95.16898) (width 1.2) (layer B.Cu) (net 1))
+  (segment (start 149.86 97.713979) (end 149.904999 97.66898) (width 1.2) (layer B.Cu) (net 2))
+  (segment (start 149.86 107.18) (end 149.86 97.713979) (width 1.2) (layer B.Cu) (net 2))
+  (segment (start 149.904999 97.66898) (end 149.904999 95.16898) (width 1.2) (layer B.Cu) (net 2))
+  (segment (start 147.32 100.083981) (end 144.904999 97.66898) (width 1.2) (layer B.Cu) (net 3))
+  (segment (start 147.32 107.18) (end 147.32 100.083981) (width 1.2) (layer B.Cu) (net 3))
+  (segment (start 144.904999 97.66898) (end 144.904999 95.16898) (width 1.2) (layer B.Cu) (net 3))
 
 )
