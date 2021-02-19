@@ -2,8 +2,8 @@
 peg_height=2;
 
 
-//set to zero for normal dimensions, 2 for picky slicers with big nozzle sizes
-extraLength=2;
+//set to zero for normal dimensions, 1 for picky slicers with big nozzle sizes
+extraLength=1;
 
 
 difference(){
