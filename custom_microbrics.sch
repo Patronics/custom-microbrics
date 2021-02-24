@@ -40,7 +40,7 @@ U 1 1 60303628
 P 5100 2950
 F 0 "J1" H 5180 2992 50  0000 L CNN
 F 1 "Conn_01x05" H 5180 2901 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 5100 2950 50  0001 C CNN
+F 2 "custom-microbrics:PinHeader_1x05_P2.54mm_Vertical_BreadBoardySilkScreen" H 5100 2950 50  0001 C CNN
 F 3 "~" H 5100 2950 50  0001 C CNN
 	1    5100 2950
 	1    0    0    -1  
@@ -55,7 +55,7 @@ U 1 1 6030802F
 P 5450 2550
 F 0 "J2" H 5530 2592 50  0000 L CNN
 F 1 "Conn_01x05" H 5530 2501 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 5450 2550 50  0001 C CNN
+F 2 "custom-microbrics:PinHeader_1x05_P2.54mm_Vertical_BreadBoardySilkScreen" H 5450 2550 50  0001 C CNN
 F 3 "~" H 5450 2550 50  0001 C CNN
 	1    5450 2550
 	1    0    0    -1  
@@ -72,7 +72,7 @@ U 1 1 6030CB7A
 P 6200 1850
 F 0 "J4" H 6280 1892 50  0000 L CNN
 F 1 "Conn_01x05" H 6280 1801 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 6200 1850 50  0001 C CNN
+F 2 "custom-microbrics:PinHeader_1x05_P2.54mm_Vertical_BreadBoardySilkScreen" H 6200 1850 50  0001 C CNN
 F 3 "~" H 6200 1850 50  0001 C CNN
 	1    6200 1850
 	1    0    0    -1  
@@ -87,7 +87,7 @@ U 1 1 6030CB86
 P 6550 1450
 F 0 "J5" H 6630 1492 50  0000 L CNN
 F 1 "Conn_01x05" H 6630 1401 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 6550 1450 50  0001 C CNN
+F 2 "custom-microbrics:PinHeader_1x05_P2.54mm_Vertical_BreadBoardySilkScreen" H 6550 1450 50  0001 C CNN
 F 3 "~" H 6550 1450 50  0001 C CNN
 	1    6550 1450
 	1    0    0    -1  
@@ -102,7 +102,7 @@ U 1 1 6030CB92
 P 6900 1100
 F 0 "J7" H 6980 1142 50  0000 L CNN
 F 1 "Conn_01x05" H 6980 1051 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 6900 1100 50  0001 C CNN
+F 2 "custom-microbrics:PinHeader_1x05_P2.54mm_Vertical_BreadBoardySilkScreen" H 6900 1100 50  0001 C CNN
 F 3 "~" H 6900 1100 50  0001 C CNN
 	1    6900 1100
 	1    0    0    -1  
@@ -119,7 +119,7 @@ U 1 1 6030A8EB
 P 5800 2200
 F 0 "J3" H 5880 2242 50  0000 L CNN
 F 1 "Conn_01x05" H 5880 2151 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 5800 2200 50  0001 C CNN
+F 2 "custom-microbrics:PinHeader_1x05_P2.54mm_Vertical_BreadBoardySilkScreen" H 5800 2200 50  0001 C CNN
 F 3 "~" H 5800 2200 50  0001 C CNN
 	1    5800 2200
 	1    0    0    -1  
@@ -130,7 +130,7 @@ U 1 1 60315417
 P 7300 800
 F 0 "J8" H 7380 842 50  0000 L CNN
 F 1 "Conn_01x05" H 7380 751 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 7300 800 50  0001 C CNN
+F 2 "custom-microbrics:PinHeader_1x05_P2.54mm_Vertical_BreadBoardySilkScreen" H 7300 800 50  0001 C CNN
 F 3 "~" H 7300 800 50  0001 C CNN
 	1    7300 800 
 	1    0    0    -1  
